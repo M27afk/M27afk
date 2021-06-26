@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @M27afk
+- 👀 I’m interested in Software development
+- 🌱 I’m currently learning DSA and WebDev
+- 📫 How to reach me?
+  - manushreshta27@gmail.com
+  
+
+<!---
+M27afk/M27afk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
