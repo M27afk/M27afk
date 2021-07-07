@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @M27afk
+- 👋 Hi, I’m Manushreshta
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning DSA and WebDev
 - 📫 How to reach me?
