@@ -2,7 +2,11 @@
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning DSA and WebDev
 - 📫 How to reach me?
-  - manushreshta27@gmail.com
+  - Email:
+    manushreshta27@gmail.com
+  - LinkedIn:
+    https://www.linkedin.com/in/manushreshta/
+   
   
 
 <!---
