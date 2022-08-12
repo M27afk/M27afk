@@ -8,7 +8,7 @@
     https://www.linkedin.com/in/manushreshta/
    
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${m27afk})
- <a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/manushreshta27.svg?style=social" /> </a>
+ <a href="https://twitter.com/manushreshta27" ><img src="https://img.shields.io/twitter/follow/manushreshta27.svg?style=social" /> </a>
  
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m27afk&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
  
