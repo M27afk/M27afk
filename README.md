@@ -8,7 +8,7 @@
     https://www.linkedin.com/in/manushreshta/
    
   <div>
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=m27afk&label=Profile%20views&color=0e75b6&style=flat" alt="m27afk" /> </p>
+  <p align="left"><img src="https://komarev.com/ghpvc/?username=m27afk&label=Profile%20views&color=0e75b6&style=flat" alt="m27afk" /> </p>
   <a href="https://twitter.com/manushreshta27" ><img align="center" src="https://img.shields.io/twitter/follow/manushreshta27.svg?style=social" /> </a>
  </div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m27afk&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
