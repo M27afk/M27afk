@@ -11,7 +11,7 @@
   <div align="left"><img src="https://komarev.com/ghpvc/?username=m27afk&label=Profile%20views&color=0e75b6&style=flat" alt="m27afk" /> </div>
   <div><a href="https://twitter.com/manushreshta27" ><img align="center" src="https://img.shields.io/twitter/follow/manushreshta27.svg?style=social" /> </a></div>
  </div>
- <div><img src="https://github-readme-stats.vercel.app/api?username=m27afk&count_private=true&hide=contribs,prs,stars"/></div>
+ <div><img src="https://github-readme-stats.vercel.app/api?username=m27afk&count_private=true&hide=contribs,stars"/></div>
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m27afk&" alt="m27afk" /></div>
 
 <h3 align="left">Languages and Tools:</h3> 
