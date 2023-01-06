@@ -15,7 +15,7 @@
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m27afk&" alt="m27afk" /></div>
 
 <h3 align="left">Languages and Tools:</h3> 
-
+<div>
   <div>
       <a href="https://www.mongodb.com/" target="_blank">  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank">  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
@@ -34,7 +34,7 @@
    <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
      </div>
-  
+  </div>
 <!---
 M27afk/M27afk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
